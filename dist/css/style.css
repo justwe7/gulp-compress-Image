@@ -1,0 +1,18 @@
+/*
+?__s  转为雪碧图
+?__b  转为base64图片
+
+无后缀不处理
+*/
+.a{
+  background: url("../img/vegetables.png?__s")
+}
+.b{
+  background: url("../img/potato.png?__s")
+}
+.c{
+  background: url("../img/fruit.png?__b")
+}
+.d{
+  background: url("../img/fish.png")
+}
