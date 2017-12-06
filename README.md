@@ -10,3 +10,12 @@ node_modules\gulp-css-spriter\lib\map-over-styles-and-transform-background-image
 借鉴自segmentfault--fwon博文
 
 前后端未分离项目简直阿西吧，懒人优化图片必备
+
+
+``` bash
+# 全局安装gulp
+npm i -g gulp
+
+# 走你
+gulp
+```
