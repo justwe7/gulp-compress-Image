@@ -9,7 +9,7 @@ node_modules\gulp-css-spriter\lib\map-over-styles-and-transform-background-image
 两个文件被修改，增加标记的文件名称才会被处理
 借鉴自segmentfault--fwon博文
 
-前后端未分离项目简直阿西吧，懒人优化图片必备
+前后端未分离项目简直阿西吧
 
 
 ``` bash
